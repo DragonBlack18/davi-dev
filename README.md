@@ -1,15 +1,20 @@
 <h1 align="center">Davi | Fundador da RocketZone</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack | Técnico em Automação Industrial</strong><br/>
+  <strong>Desenvolvedor Full Stack</strong><br/>
   Integrando software, hardware e IA para soluções na Indústria 4.0
 </p>
 
 <p align="center">
-  🚀 <strong>Founder — RocketZone</strong><br/>
-  🏭 <strong>Especialista em Automação Industrial</strong><br/>
-  💡 <strong>Foco em Inovação e Tecnologia</strong>
+  <strong>🚀 Founder: RocketZone &nbsp;|&nbsp; 🏭 Automação Industrial &nbsp;|&nbsp; 💡 Inovação & Tecnologia</strong>
 </p>
+
+<p align="center">
+  <kbd>🚀 Founder</kbd>
+  <kbd>🏭 Automação Industrial</kbd>
+  <kbd>💡 Inovação e Tecnologia</kbd>
+</p>
+
 
 
 ---
