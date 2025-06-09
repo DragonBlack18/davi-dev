@@ -6,10 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Founder-RocketZone-black?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/Automação-Industrial-blue?style=for-the-badge&logo=gear">
-  <img src="https://img.shields.io/badge/Inovação-e-Tecnologia-red?style=for-the-badge&logo=code">
+  🚀 <strong>Founder — RocketZone</strong><br/>
+  🏭 <strong>Especialista em Automação Industrial</strong><br/>
+  💡 <strong>Foco em Inovação e Tecnologia</strong>
 </p>
+
 
 ---
 
