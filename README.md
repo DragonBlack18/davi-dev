@@ -27,7 +27,7 @@
 🎯 Role: Founder & Tech Architect
 🏢 Company: RocketZone Solutions
 📍 Location: Água Doce, SC - Brasil
-👨‍💻 Age: 19 years old
+👨‍💻 Age: 20 years old
 🎓 Education: Industrial Automation + Software Dev
 ⭐ Experience: 5+ Years in Industry 4.0
 🚀 Passion: Transforming Industries with Tech
